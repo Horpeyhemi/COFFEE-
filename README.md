@@ -62,6 +62,7 @@ Provides a summary of the coffee shop's overall business performance.
 - Location
 
 ### 3. Sales Analysis
+![image alt](https://github.com/Horpeyhemi/COFFEE-/blob/c2b753bbf94c8241a1ff23dc5a94ae6278e31596/Coffee%20sales.png)
 
 This section focuses on understanding sales performance and identifying trends in product sales and revenue generation.
 
