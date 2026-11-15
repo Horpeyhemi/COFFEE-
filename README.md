@@ -34,6 +34,7 @@ The primary objectives of this project are to:
 The dashboard consists of four interactive sections:
 
 ### 1. Landing Page
+[image alt](https://github.com/Horpeyhemi/COFFEE-/blob/6abcffba8088bbe87bab357eff62eebc06488c4d/Coffee%20landing%20page%20.png)
 
 The landing page serves as the dashboard's entry point, featuring a coffee-themed design and navigation buttons that provide access to the different analytical sections.
 
