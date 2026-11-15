@@ -39,6 +39,7 @@ The dashboard consists of four interactive sections:
 The landing page serves as the dashboard's entry point, featuring a coffee-themed design and navigation buttons that provide access to the different analytical sections.
 
 ### 2. Sales Overview Dashboard
+![image alt](https://github.com/Horpeyhemi/COFFEE-/blob/d8091e65f7d305297a73fb4d3734b3ede6ed081f/Coffee%20Overview%20page%20.png)
 
 Provides a summary of the coffee shop's overall business performance.
 
