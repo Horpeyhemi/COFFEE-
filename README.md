@@ -146,17 +146,13 @@ The dashboard provides a consolidated view of business performance, making it ea
 
 ### Sales Overview
 
-![Coffee Sales Dashboard - Overview](images/coffee-overview.png)
+![Coffee Sales Dashboard - Overview](https://github.com/Horpeyhemi/COFFEE-/blob/57d90eceb67b466b533a504b4e1cc39547a714db/Coffee%20Overview%20page%20.png)
 
 ## 🚀 Live Dashboard
 
 Explore the interactive Power BI dashboard:
 
 [**View Coffee Shop Sales Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiOWZiMjA3YWQtMmYyOC00YWM2LTgwZTUtOGQ1ZDYxNDVlYzk2IiwidCI6IjQ4NTkyZTczLTE2OTUtNGVmMy1hYzg3LWM0ZDNjMGVhNDYzMyJ9)
-
-## 📂 Project Repository
-
-[**View Project Files on GitHub →**](https://github.com/Horpeyhemi/COFFEE-)
 
 ## 📝 Conclusion
 
