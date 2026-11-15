@@ -142,7 +142,7 @@ The dashboard provides a consolidated view of business performance, making it ea
 
 ### Landing Page
 
-![Coffee Sales Dashboard - Landing Page](images/coffee-landing-page.png)
+![Coffee Sales Dashboard - Landing Page](https://github.com/Horpeyhemi/COFFEE-/blob/b3afdbbad32b67f6b7385c3bdf8865bc5033c2c7/Coffee%20landing%20page%20.png)
 
 ### Sales Overview
 
