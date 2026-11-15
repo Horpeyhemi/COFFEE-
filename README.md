@@ -74,6 +74,7 @@ It provides insights into:
 - Quantity sold and average sales.
 
 ### 4. Location Analysis
+![image alt](https://github.com/Horpeyhemi/COFFEE-/blob/5f78c5785c2c18548fc19e765005237b38342477/coffee%20location.png)
 
 This section examines sales performance across different business locations.
 
